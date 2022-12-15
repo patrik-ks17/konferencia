@@ -7,7 +7,7 @@ function App() {
       <Header>IOK VKK Demo</Header>
       <Main>
         <h1>Előadások</h1>
-        <Presentations />
+        <Presentations/>
       </Main>
       <Footer>
         &copy; HTTP Alapítvány

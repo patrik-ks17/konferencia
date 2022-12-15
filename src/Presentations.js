@@ -1,11 +1,12 @@
 import styled from 'styled-components'
+import { useQuerySubscription } from 'react-datocms'
 
 const Presentations = () => {
 	return (
 		<>
-			{presentations.map((presentation, index) => {
+			{presentations.map((presentation, index) => (
 				<Presentation presentation={presentation} key={index}/>
-			})}
+			))}
 		</>
 	)
 }
