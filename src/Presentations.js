@@ -17,7 +17,7 @@ const Presentation = (props) => {
 			<Time>{presentation.startTime.substring(11, 16)}</Time>
 			<Title>{presentation.title}</Title>
 			<Presenter>
-				{presentations.presenter.name} {presentation.presenter.company}, {presentation.presenter.title},
+				{presentation.presenter.name} {presentation.presenter.company}, {presentation.presenter.title}
 				<div>
 					<img src={presentation.presenter.photo.url} alt={presentation.presenter.name}/>
 				</div>
