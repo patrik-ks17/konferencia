@@ -1,0 +1,38 @@
+[
+    {
+        title: "Köszöntő",
+        startTime: "2022-05-25T09:00:00+01:00",
+        presenter: {
+            title: "ügyvezető igazgató",
+            photo: {
+                url: "https://www.datocms-assets.com/70643/1651850041-1644788738-dalos_otto.png"
+            },
+            name: 'Dalos Ottó',
+            company: 'Cisco Magyarország'
+        }
+    },
+    {
+        title: "Befektetés az IT oktatásba",
+        startTime: "2022-05-25T09:20:00+01:00",
+        presenter: {
+            title: "vezérigazgató",
+            photo: {
+                url: "https://www.datocms-assets.com/70643/1651850083-1647423382-gonda_gabor_2.png"
+            },
+            name: 'Gonda Gábor',
+            company: 'T Systems Magyarország Zrt'
+        }
+    },
+    {
+        title: "A digitális evolúció és az oktatás",
+        startTime: "2022-05-25T09:45:00+01:00",
+        presenter: {
+            title: "angyalbafektető, ügyvezető",
+            photo: {
+                url: "https://www.datocms-assets.com/70643/1651850126-1646229711-balogh_peter_2.png"
+            },
+            name: 'Balogh Péter',
+            company: 'Baconsult Kft'
+        }
+    }
+]
